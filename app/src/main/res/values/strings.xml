@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Travel Guide</string>
+    <string name="title_activity_start">Travel Guide</string>
+    <string name="no_internet_title">No Internet</string>
+    <string name="base_url">https://vtsraipur.com/travel_guide/</string>
+
+</resources>
